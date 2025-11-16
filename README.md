@@ -7,7 +7,7 @@ A pure CSS/HTML animated navigation component with glassmorphism design and smoo
 ![Preview](screenshot.png)
 
 ## Live Demo
-[Click here to view](https://Mehdi-dev-sudo.github.io/Animated-Login-Form/)
+[Click here to view](https://mehdi-dev-sudo.github.io/Animated-Navigation-Menu-Bar/)
 
 ## Features
 - Animated sliding indicator
@@ -37,4 +37,5 @@ cd animated-nav-menu
 
 ## License
 MIT
+
 
