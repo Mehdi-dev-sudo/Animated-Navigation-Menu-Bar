@@ -6,6 +6,9 @@ A pure CSS/HTML animated navigation component with glassmorphism design and smoo
 
 ![Preview](screenshot.png)
 
+## Live Demo
+[Click here to view](https://Mehdi-dev-sudo.github.io/Animated-Login-Form/)
+
 ## Features
 - Animated sliding indicator
 - Ripple effect on click
@@ -34,3 +37,4 @@ cd animated-nav-menu
 
 ## License
 MIT
+
